@@ -1,0 +1,7 @@
+# Just the things that came to mind... could be better
+.vscode
+*.pyc
+DS_STORE
+*.env*
+__pycache__
+*nohup*
